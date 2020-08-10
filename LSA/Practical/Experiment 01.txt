@@ -1,0 +1,23 @@
+LSA Prcatical on thu, 23 July 2020, 11 am to 12.30pm
+
+1. Write BASH script to enter 3 real nos and find their sum.
+
+2. Write BASH script to enter 3 nos and find the largest number.
+3. Enter year and check whether it is leap year.
+4. Enter radius of circle and find area of circle.
+5. Create new usesr tycs00, tycs01, tycs02 in your system and assign them to group tycs.
+   Each user must have their own subdirectory. e.g. /home/tycs00,...
+
+   Allow access of your file to tycs00. (tycs00 should be able to read the file)
+   Allow access of your file to tycs01. (tycs01 should be able to read/write the file)
+   Allow access of your file to tycs02. (tycs02 should be able to read/write/execute the file)
+
+Create a Single word file and store it in classroom by today 5 pm. Word file must contain your name, class, div, rollno and date.
+
+
+
+
+
+
+
+

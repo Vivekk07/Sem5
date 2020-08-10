@@ -1,0 +1,14 @@
+tar -xvf jdk-11_linux-x64_bin.tar.gz
+
+edited file /etc/profile
+
+
+. /etc/profile
+
+Where java is installed
+sudo update-alternatives --install "/usr/bin/java" "java" "/home/tereg2024/jdk-11/bin/java" 1
+sudo update-alternatives --install "/usr/bin/javac" "javac" "/home/tereg2024/jdk-11/bin/javac" 1
+
+this is default java
+sudo update-alternatives --set java /home/tereg2024/jdk-11/bin/java
+sudo update-alternatives --set javac /home/tereg2024/jdk-11/bin/javac
